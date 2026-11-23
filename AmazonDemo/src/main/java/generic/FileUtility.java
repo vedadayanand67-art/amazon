@@ -6,6 +6,8 @@ public class FileUtility {
 		// TODO Auto-generated method stub
 System.out.println("Read data from properties");
 System.out.println("read data from excel");
+
+System.out.println("read data from json");
 	}
 
 }
